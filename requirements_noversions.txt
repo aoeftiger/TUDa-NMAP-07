@@ -1,0 +1,11 @@
+numpy
+scipy
+pip
+matplotlib
+seaborn
+notebook
+rise
+
+PyNAFF
+tqdm
+ipywidgets
